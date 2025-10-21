@@ -4,7 +4,7 @@ body {
 	color: #222222;
 }
 a {
-	color: #253fa8;
+	color: #000000;
 	text-decoration: none;
 }
 h2{
@@ -13,7 +13,7 @@ h2{
 }
 h3{
 	font-size: 12px;
-	font-weight: normal;
+	font-weight: bold;
 }
 /*@media(min-width:1000px){}*/
 .container{
@@ -66,6 +66,9 @@ h3{
 	list-style: none;
 	padding:0px;
 	
+}
+.left-column h3{
+	font-weight: normal;
 }
 .left-column li{
 	padding-bottom:10px;
