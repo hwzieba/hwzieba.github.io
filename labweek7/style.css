@@ -1,0 +1,53 @@
+body{
+    background-image: linear-gradient(90deg, #f79a9a, #f58fdd 20%, #849bf9);
+    font-family: Verdana, sans-serif;
+    color: #364069;
+    font-size: 12px;
+    padding-top:50px;
+}
+h1{
+    margin-top: 0px;
+    text-align: center;
+}
+#myForm{
+    display: block;
+}
+.form {
+    margin:0% auto;
+    background-color: #eeeeee;
+    border-radius: 25px;
+    padding:20px;
+    width:300px;
+
+}
+.button{
+    margin: 0 auto;
+    border-radius: 25px;
+    border: 0px;
+    font-size: 12px;
+    width:50%;
+    margin:0% auto;
+    background-color: #364069;
+    color: #ffffff;
+    padding:20px;
+    display: block;
+}
+.text{
+    background-color: #ffffff;
+    border:0px;
+    border-radius: 0px;
+    width:200px;
+}
+.left{
+    float:left;
+    padding:10px;
+}
+.right{
+    float:right;
+    padding:10px;
+}
+#thanks {
+    display: none;
+    padding:30px;
+    text-align: center;
+}
