@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.container{
+    max-width: 660px;
+    padding:200px;
+    margin: 0 auto;
+    display:flex;
+
+}
+button{
+    background-color: #ffffff;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    border: solid 5px #7c7676;
+    flex:0 0 210px;
+}
+button img{
+    height:100px;
+}
