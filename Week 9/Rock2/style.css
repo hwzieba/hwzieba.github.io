@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: #ffffff;
+}
+#game{
+    padding:20px;
+    display:block;
+}
+button{
+    background-color: #ffffff;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    border: solid 5px #7c7676;
+    flex:0 0 210px;
+}
+button img{
+    height:100px;
+}
+#btn {
+    display:block;
+}
