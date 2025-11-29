@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(6, 0, 56);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(6, 0, 56);
+    list-style-type: none;
+}
+.main
+{
+    border-radius: 12px;
+    background-color: aliceblue;
+    padding:24px;
+
+}
+.add{
+    color: rgb(12, 133, 12) !important;
+    cursor: pointer;
+}
+.remove{
+    color: red !important;
+    cursor: pointer;
+}
